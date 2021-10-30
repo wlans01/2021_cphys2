@@ -3,3 +3,6 @@
 ```
 npx react-native run-android
 ```
+```
+npx create-react-native-app
+```
